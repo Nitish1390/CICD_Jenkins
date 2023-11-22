@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Add your project dependencies here
+# For example:
+# library-name==version
+
+# Example:
+# requests==2.26.0
+# pytest==7.4.11
